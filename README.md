@@ -23,3 +23,4 @@ The file `tech_layoffs_2026_tracker.csv` contains layoff events with columns: co
 2. Import the notebook `notebooks/layoffs_analysis.ipynb` into Databricks.
 3. Attach it to a running cluster (use single node for simplicity).
 4. Run all cells.
+"Progress tracking moved to https://github.com/AJifri91/data-engineer-roadmap-tracker"
